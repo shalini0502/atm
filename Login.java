@@ -1,5 +1,5 @@
 
-package bank.management.system;
+package bank_management_system;
 import javax.swing.*;
 
 public class Login extends JFrame{
